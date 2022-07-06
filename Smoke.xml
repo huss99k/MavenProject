@@ -1,0 +1,14 @@
+<suite name = "Regression Testing">
+
+    <test name = "UI testing">
+
+        <class name = "Testclass">
+        </class>
+
+
+    </test>
+
+
+
+
+</suite>>

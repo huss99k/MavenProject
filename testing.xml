@@ -1,0 +1,16 @@
+<suite name = "UI Testing">
+
+    <test name = "points">
+        <classes>
+
+            <class name = "tests.Testclass">
+            </class>
+
+
+        </classes>
+
+
+    </test>
+
+
+</suite>

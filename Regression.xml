@@ -1,0 +1,14 @@
+<suite name = "Regression Testing">
+
+    <test name = "UI testing">
+
+        <Package name = "MavenProject">
+        </Package>
+
+
+    </test>
+
+
+
+
+</suite>>
